@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "480579812299",
+    "firebase_url": "https://decent-surf-160211.firebaseio.com",
+    "project_id": "decent-surf-160211",
+    "storage_bucket": "decent-surf-160211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480579812299:android:3321543efb08a35f",
+        "android_client_info": {
+          "package_name": "com.example.user.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480579812299-ohl3j27bbp91dcmnrahak83dp2gjqppn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.project",
+            "certificate_hash": "64bc6025cd691057df727bac447528c2435b3501"
+          }
+        },
+        {
+          "client_id": "480579812299-j0s80mddoc9dsbstbrtsf13ck7rapjpn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "480579812299-lhvedqltjohs9g0uvjvdm3a68a4c5u7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOWmeoEF4U1pN3hCSox7ORg7t7x7A12E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480579812299-j0s80mddoc9dsbstbrtsf13ck7rapjpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
