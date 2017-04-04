@@ -20,11 +20,7 @@
         <activity
             android:name=".TorS"
             android:theme="@style/style2">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".TeacherLogin"
@@ -36,7 +32,15 @@
         <activity android:name=".Stats" />
         <activity android:name=".RevalandMakeup" />
         <activity android:name=".Testing1" />
-        <activity android:name=".Testing2"></activity>
+        <activity android:name=".Testing2" />
+        <activity android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
